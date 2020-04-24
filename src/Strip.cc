@@ -1,4 +1,4 @@
-#include <Strip2.h>
+#include <Strip.h>
 
 void setColor(LEDStrip_t strip, Adafruit_NeoPixel neo)
 {
